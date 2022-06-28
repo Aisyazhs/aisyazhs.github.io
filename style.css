@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
 :root {
     --pink: #ec74ba;
     --blue: #265f68bb;
@@ -142,7 +142,7 @@ header .navbar ul li a:hover {
     position: fixed;
     top: 2rem;
     right: 2rem;
-    background: #333;
+    background: rgb(71, 70, 70);
     color: #fff;
     cursor: pointer;
     font-size: 2.5rem;
@@ -415,7 +415,7 @@ header .navbar ul li a:hover {
         width: 100vw;
     }
     .heading {
-        margin: 0 3rem;
+        margin: 0 4rem;
     }
     .about .row .counter .box {
         width: 100%;
